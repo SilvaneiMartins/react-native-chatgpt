@@ -10,7 +10,7 @@ Tenha a experiencia de criar um aplicativo ChatGPT usando o React Native;
 	🚧  APLICAÇÃO REACT NATIVE + CHATGPT...  🚧
 </h3>
 
-# Informação maquina windows;
+# Informação maquina windows:
 1 - Este é um tutorial utilizando o projeto em React Native + a ferramenta ChatGPT para interagir com você, atraves de chat. </br>
 2 - Neste primeiro momento o projeto esta sendo desenvolvido em um ambiente windows, mas em breve estarei executando o projeto em
 ambiente linux e mac.</br>
@@ -21,11 +21,11 @@ ambiente linux e mac.</br>
 7 - Para instalar o Android Studio, acesse o site https://developer.android.com/studio e siga as instruções.</br>
 8 - Para instalar o Java, acesse o site https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR e siga as instruções.
 
-# Informação Importante;
+# Informação Importante:
 
 YOUR_API_KEY = Criar uma conta no site https://openai.com/ e pegar a sua API_KEY para utilizar no seu projeto.
 
-# Algumas image do projeto;
+# Algumas image do projeto:
 <h4 align="left">
 	Algumas imagens do projeto em desenvolvimento.
 </h4>
@@ -37,12 +37,14 @@ YOUR_API_KEY = Criar uma conta no site https://openai.com/ e pegar a sua API_KEY
 	<br />
 </h1>
 
-# Features;
--   [ X ] onSend;
--   [ X ] callApi;
--   [ X ] addNewMessage;
+# Tarefas do projeto:
+```bash
+    -   [ X ] onSend;
+    -   [ X ] callApi;
+    -   [ X ] addNewMessage;
+```
 
-# Instrução para clonar o projeto;
+# Instrução para clonar o projeto:
 ```bash
     # Clonar o repositório
     $ git https://github.com/SilvaneiMartins/react-native-chatgpt
@@ -51,7 +53,7 @@ YOUR_API_KEY = Criar uma conta no site https://openai.com/ e pegar a sua API_KEY
     $ cd react-native-chatgpt
 ```
 
-# Instrução criar executar o projeto;
+# Instrução criar executar o projeto:
 ```bash
     # Startar o metro bundler
     $ yarn start
@@ -67,19 +69,19 @@ YOUR_API_KEY = Criar uma conta no site https://openai.com/ e pegar a sua API_KEY
     $ npx react-native run-ios
 ```
 
-# Tecnologias que estamos utilizando no projeto;
+# Tecnologias que estamos utilizando no projeto:
 -   [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 -   [GifTed](https://github.com/FaridSafi/react-native-gifted-chat)
 -   [OpenAi](https://platform.openai.com/docs/introduction)
 
-# License;
+# License:
 Este projeto está sob a licença CC0-1.0. Caso gostaria de ler, por favor acessar a licença aqui neste link [LICENSE](https://github.com/SilvaneiMartins/react-native-chatgpt/blob/master/LICENSE) para maiores informações.
 
-# Observação;
+# Observação:
 
 Todos que foi criado no projeto está comentado para que você possa entender o que foi feito e como foi feito.
 
-# Developer;
+# Developer:
 <a href="https://github.com/SilvaneiMartins">
     <img
         style="border-radius:50%"
