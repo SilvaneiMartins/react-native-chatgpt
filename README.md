@@ -39,9 +39,9 @@ YOUR_API_KEY = Criar uma conta no site https://openai.com/ e pegar a sua API_KEY
 
 # Tarefas do projeto:
 ```bash
-    -   [ X ] onSend;
-    -   [ X ] callApi;
-    -   [ X ] addNewMessage;
+    -   [ X ] onSend
+    -   [ X ] callApi
+    -   [ X ] addNewMessage
 ```
 
 # Instrução para clonar o projeto:
