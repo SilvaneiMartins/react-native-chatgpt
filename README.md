@@ -11,19 +11,19 @@ Tenha a experiencia de criar um aplicativo ChatGPT usando o React Native;
 </h3>
 
 # Informação maquina windows;
-1 - Este é um tutorial utilizando o projeto em React Native + a ferramenta ChatGPT para interagir com você, atraves de chat.
+1 - Este é um tutorial utilizando o projeto em React Native + a ferramenta ChatGPT para interagir com você, atraves de chat. </br>
 2 - Neste primeiro momento o projeto esta sendo desenvolvido em um ambiente windows, mas em breve estarei executando o projeto em
-ambiente linux e mac.
-3 - Para executar o projeto em ambiente windows, você precisa ter instalado em sua maquina o NodeJs, Yarn, React Native Cli e o Android Studio.
-4 - Para instalar o NodeJs, acesse o site https://nodejs.org/en/ e baixe a versão LTS.
-5 - Para instalar o Yarn, acesse o site https://classic.yarnpkg.com/en/docs/install/#windows-stable e siga as instruções.
-6 - Para instalar o React Native Cli, acesse o site https://reactnative.dev/docs/environment-setup e siga as instruções.
-7 - Para instalar o Android Studio, acesse o site https://developer.android.com/studio e siga as instruções.
+ambiente linux e mac.</br>
+3 - Para executar o projeto em ambiente windows, você precisa ter instalado em sua maquina o NodeJs, Yarn, React Native Cli e o Android Studio.</br>
+4 - Para instalar o NodeJs, acesse o site https://nodejs.org/en/ e baixe a versão LTS.</br>
+5 - Para instalar o Yarn, acesse o site https://classic.yarnpkg.com/en/docs/install/#windows-stable e siga as instruções.</br>
+6 - Para instalar o React Native Cli, acesse o site https://reactnative.dev/docs/environment-setup e siga as instruções.</br>
+7 - Para instalar o Android Studio, acesse o site https://developer.android.com/studio e siga as instruções.</br>
 8 - Para instalar o Java, acesse o site https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR e siga as instruções.
 
 # Informação Importante;
 
-    YOUR_API_KEY = Criar uma conta no site https://openai.com/ e pegar a sua API_KEY para utilizar no seu projeto.
+YOUR_API_KEY = Criar uma conta no site https://openai.com/ e pegar a sua API_KEY para utilizar no seu projeto.
 
 # Algumas image do projeto;
 <h4 align="left">
