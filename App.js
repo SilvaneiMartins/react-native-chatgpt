@@ -56,9 +56,9 @@ export default function Example() {
         });
 
         const data = await res.json();
+        const value = data?.choices[0]?.text;
 
-        if (data) {
-            const value = data?.choices[0]?.text;
+        if (value) {
             addNewMessage(value);
             console.log('Data: ', value);
         }
