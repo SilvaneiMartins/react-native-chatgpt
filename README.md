@@ -25,6 +25,9 @@ ambiente linux e mac.</br>
 
 YOUR_API_KEY = Criar uma conta no site https://openai.com/ e pegar a sua API_KEY para utilizar no seu projeto.
 
+# Link do Vídeo no YouTube:
+[![Watch the video](https://i.imgur.com/F2hn9mT.jpg)](https://youtu.be/JX6Kki2DceE)
+
 # Algumas image do projeto:
 <h4 align="left">
 	Algumas imagens do projeto em desenvolvimento.
